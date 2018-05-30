@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class Pannkakor
     {
-        static void Main(string[] args)
+        public static void Smet()
         {
-            Console.WriteLine("Jag vet vad du gjorde igår.");
+            Console.WriteLine("Hejsanhejsan");
         }
     }
 }

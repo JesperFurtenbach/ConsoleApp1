@@ -10,8 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Jag vet vad du gjorde igår.");
-            Pannkakor.Smet();
+            Console.WriteLine("Jag vet vad du gjorde igår.");           
+            Console.WriteLine("FÄRDIG ....");
+Pannkakor.Smet();
         }
     }
 }

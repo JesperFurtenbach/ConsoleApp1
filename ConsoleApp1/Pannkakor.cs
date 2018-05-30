@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("ALLIHOP SAMTIDIGT");
             Console.WriteLine("Hejsanhejsan");
+            Console.WriteLine("Krock");
+            Console.WriteLine("Blöööhp");
         }
     }
 }

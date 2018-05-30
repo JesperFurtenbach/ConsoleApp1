@@ -11,8 +11,11 @@ namespace ConsoleApp1
         public static void Smet()
         {
             Console.WriteLine("Hejsanhejsan");
+
             Console.WriteLine("Krock");
+
             Console.WriteLine("Blöööhp");
+
         }
     }
 }
